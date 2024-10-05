@@ -1,0 +1,66 @@
+Observações:
+Pesquise apenas o nome do livro:   Software Configuration Management Handbook, Third Edition
+Selecione a opção que é um eBook
+Quando logar no site da biblioteca, ignore as instruções, elas estão incorretas!
+Use o RA precedido por "a" e a senha, exemplo:
+login: a2601656
+senha: minhasenha
+Os mitos estão nas primeiras páginas
+
+
+Os 18 Mitos:
+1 - SCM Means More Work and Procedures
+1 - (Traduzido) GCS Significa mais mais trabalho e procedimentos
+
+2 - SCM Will Change Current Practices and It Will Create Product Failures
+2 - (Traduzido)GCS Mudará práticas atuais e criará produtos falhos
+
+3 - SCM Is a Difficult, Monotonous, and Time-Consuming Activity
+3 - (Traduzido) GCS É uma atividade difícil, monótona e demorada
+
+4 - SCM Is the Responsibility of Management
+4 - (Traduzido) GCS é a responsabilidade dos gerentes
+
+
+5 - SCM Is Just for Developers
+5 - (Traduzido) GCS é apenas para desenvolvedores
+
+6 - SCM Is Just for the SCM Team
+6 - (Traduzido) GCS é apenas para o Time de GCS
+
+7 - SCM Is Just for the Maintenance and Technical Support Team
+7 - (Traduzido) GCS é apenas para o Time de Manutenção e Suporte Técnico
+
+8 - SCM Will Make Many Employees Redundant and Jobless
+8 - (Traduzido) GCS Irá tornar muitos funcionários redundantes e desempregados
+
+9 - SCM Slows Down the Software Development Process
+9 - (Traduzido) GCS Causa demoras no processo de desenvolvimento de Software
+
+10 - SCM Is Just To Get Certification Like ISO and CMM
+10 - (Traduzido)GCS só serve para receber certificações como ISO e CMM
+
+11 - SCM Tools Will Take Care of Everything
+11 - (Traduzido) Ferramentas GCS vão cuidar de Traduzido
+
+12 - One SCM Tool Will Suit Everybody
+12 - (Traduzido) Uma ferramenta GCS vai servir para todos
+
+13 - SCM Is Very Expensive
+13 - (Traduzido) GCS é muito caro
+
+
+14 - Once the SCM Implementation Is Complete, There Will Be No Additional Expenses
+14 - (Traduzido) Assim que a implementação do GCS terminar, não haverá mais despesas
+
+15 - SCM Is Just for the Source Code
+15 - (Traduzido) GCS é apenas para o Código-Fonte
+
+16 - SCM Is Change Management and Defect Tracking
+16 - (Traduzido) GCS é apenas gerência de mudanças e rastreamento de defeitos
+
+17 - Software Development Can Succeed Without SCM
+17 - (Traduzido) Desenvolvimento de software pode ter sucesso sem GCS
+
+18 - SCM Is Just To Impress Customers
+18 - (Traduzido) GCS é apenas para impressionar clientes

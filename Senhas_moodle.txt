@@ -1,0 +1,14 @@
+Estrutura de Dados 1
+Senha: ED122024
+
+Modelagem de Software
+Senha: MS13
+
+Gerência de Configuração de Software
+Senha: GC13
+
+Banco de Dados 2
+Senha: BD23SW2024
+
+Programação Orientada a Objetos
+Senha: 2024
