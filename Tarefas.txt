@@ -1,1 +1,2 @@
 Tarefa no Moodle até dia 08/10 às 19:00: Elencar os 18 mitos da GCS e elaborar sobre um deles. Um arquivo .txt com todos os mitos traduzidos e ajuda para acessar o livro está no GitHub.
+Tarefa no Moodle até dia Quinta 17/10 às 23:59: Prática 1 do Java
