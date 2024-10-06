@@ -12,3 +12,6 @@ Senha: BD23SW2024
 
 Programação Orientada a Objetos
 Senha: 2024
+
+Gestão de Pessoas
+Senha: GP13SW
